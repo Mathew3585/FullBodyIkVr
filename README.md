@@ -5,6 +5,7 @@
 
 ## 📹Demo
 
+[OutVideo.webm](https://github.com/Mathew3585/FullBodyIkVr/assets/68810417/1c95cabf-c31b-4472-b6d1-8578ead77950)
 
 
 
